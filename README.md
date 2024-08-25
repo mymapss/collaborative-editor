@@ -14,7 +14,7 @@
   <h3 align="center">A Collaborative LiveDocs</h3>
 
    <div align="center">
-     Build this project step by step following the below steps ." target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step following the below steps .
     </div>
 </div>
 
@@ -78,7 +78,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/collaborative-editor.git
+git clone https://github.com/mymapss/collaborative-editor.git
 cd collaborative-editor
 ```
 
